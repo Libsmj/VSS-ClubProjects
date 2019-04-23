@@ -1,0 +1,22 @@
+\\vsd-data01\faculty\lipskyr\visual studio 2010\Projects\VSS Bingo!\VSS Bingo!\bin\Debug\VSS Bingo!.exe
+\\vsd-data01\faculty\lipskyr\visual studio 2010\Projects\VSS Bingo!\VSS Bingo!\bin\Debug\VSS Bingo!.pdb
+\\vsd-data01\faculty\lipskyr\visual studio 2010\Projects\VSS Bingo!\VSS Bingo!\bin\Debug\VSS Bingo!.xml
+\\vsd-data01\faculty\lipskyr\visual studio 2010\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\vsd-data01\faculty\lipskyr\visual studio 2010\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\vsd-data01\faculty\lipskyr\visual studio 2010\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\VSS Bingo!.vbproj.GenerateResource.Cache
+\\vsd-data01\faculty\lipskyr\visual studio 2010\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\VSS Bingo!.exe
+\\vsd-data01\faculty\lipskyr\visual studio 2010\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\VSS Bingo!.xml
+\\vsd-data01\faculty\lipskyr\visual studio 2010\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\VSS Bingo!.pdb
+\\vsd-data01\faculty\lipskyr\Visual Studio 2010\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\VSS Bingo!.exe
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\VSS Bingo!.xml
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\VSS Bingo!.pdb
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\VSS Bingo!\VSS Bingo!\bin\Debug\VSS Bingo!.exe
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\VSS Bingo!\VSS Bingo!\bin\Debug\VSS Bingo!.pdb
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\VSS Bingo!\VSS Bingo!\bin\Debug\VSS Bingo!.xml
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\VSS Bingo!.vbprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\VSS Bingo!.vbproj.GenerateResource.Cache
+C:\Users\Jacob\Documents\Visual Studio 2015\Projects\VSS Bingo!\VSS Bingo!\obj\x86\Debug\WindowsApplication1.Form3.resources
